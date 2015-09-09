@@ -1,0 +1,6 @@
+target/
+.classpath
+.project
+.project/
+.settings/
+src/main/sass/.sass-cache/
